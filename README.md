@@ -4,6 +4,8 @@
 
 Para rodar esse projeto em sua máquina por favor digite:
 
+Teste
+
 ```
 npm install react
 ```
