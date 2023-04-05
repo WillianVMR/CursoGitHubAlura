@@ -4,7 +4,7 @@
 
 Para rodar esse projeto em sua máquina por favor digite:
 
-Teste
+Configurando arquivo
 
 ```
 node app.js
